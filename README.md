@@ -1,4 +1,4 @@
-# I-AM  breaking chains
+# I-AM  breaking chains try it https://iamos.tiiny.site/?mode=suggestions
 # I-AM-SYSTEMS PREMIUM v10 — Sovereign Monolith
 **Final Evolution • Serverless • Deterministic • Local-First • Ungovernable**
 
